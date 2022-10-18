@@ -1,5 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/jelly-garden/pages/index/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+created: 2022-10-18 0931
+updated: 2022-10-18 0931
 ---
 
 

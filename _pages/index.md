@@ -3,10 +3,13 @@ layout: page
 title: Home
 id: home
 permalink: /
+created: 2022-10-18 0931
+updated: 2022-10-18 0931
 ---
 
 # Welcome! 🌱
 
+[[DailyNote]]
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>

@@ -1,5 +1,7 @@
 ---
 title: Your first seed
+created: 2022-10-18 0931
+updated: 2022-10-18 0931
 ---
 
 ### Welcome!

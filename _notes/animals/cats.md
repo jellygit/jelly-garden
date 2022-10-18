@@ -1,5 +1,7 @@
 ---
 title: A note about cats
+created: 2022-10-18 0931
+updated: 2022-10-18 0931
 ---
 
 This is a second note with a poem with cats. 
